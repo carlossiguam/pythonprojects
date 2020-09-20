@@ -9,4 +9,4 @@ def hello():
 def about():
     return "Este sitio web es creado con el fin de palear la no automatizacion existente en la creacion de procesos dentro de la empresa."
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
