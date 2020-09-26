@@ -111,6 +111,7 @@ env.bak/
 venv.bak/
 app0/app0-env
 appdocxemov/appdocxemov-env
+apppdfemov/env
 
 # Spyder project settings
 .spyderproject
