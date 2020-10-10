@@ -4,9 +4,9 @@ from docx.shared import Inches
 #=======================================================
 # GLOBALS
 #=======================================================
-v_NUT = 'EMOV EP-2019-2265'
+v_NUT = 'EMOV EP-2019-2268'
 v_espacio = ' '
-v_mesdepago = 'septiembre'
+v_mesdepago = 'noviembre'
 v_objetocontrato = 'RENOVACION DE ENLACES INTERURBANOS PARA LA EMOV EP'
 v_contratosercop = 'RE-056-EMOV EP-2018'
 
@@ -88,4 +88,4 @@ for qty, id, desc in records:
 
 document.add_page_break()
 
-document.save('INFOTEC PAGO FACTURA SEP 2020.docx')
+document.save('INFOTEC PAGO FACTURA OCT 2020.docx')
