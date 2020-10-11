@@ -1,0 +1,21 @@
+tutorials
+https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-development-environment
+
+
+
+https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar
+
+https://docs.sqlalchemy.org/en/14/core/connections.html
+
+https://www.kite.com/python/docs/sqlalchemy.create_engine
+
+https://hackersandslackers.com/sqlalchemy-data-models/
+
+https://pythonpedia.com/en/tutorial/8189/audio
+
+DATE TIME
+https://www.dataquest.io/blog/python-datetime-tutorial/
+
+
+https://www.programmer-books.com/wp-content/uploads/2020/01/An-Introduction-to-Python-and-Computer-Programming.pdf
+https://www.programmer-books.com/wp-content/uploads/2020/01/Introduction-to-Python-Programming-and-Developing-GUI-Applications-with-PyQT.pdf
