@@ -113,6 +113,7 @@ env.bak/
 venv.bak/
 app0/app0-env
 appdocxemov/appdocxemov-env
+appdocxemov/env
 apppdfemov/env
 appw0/env
 
